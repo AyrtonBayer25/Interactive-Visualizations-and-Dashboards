@@ -39,7 +39,6 @@ function buildCharts(sample) {
     var LayoutBubble = {
       margin: { t: 0 },
       xaxis: { title: "Id's" }
-      hovermode: "closest",
       };
 
       var DataBubble = [
